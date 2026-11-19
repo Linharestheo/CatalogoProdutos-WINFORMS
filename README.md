@@ -12,10 +12,6 @@
   <img alt="Plataforma" src="https://img.shields.io/badge/plataforma-Windows-blue">
 </p>
 
-<p align="center">
-  <img alt="Tela principal do Catálogo de Produtos" src="docs/tela-principal.png" width="700">
-</p>
-
 ---
 
 ## ✨ Destaques
