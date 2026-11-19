@@ -57,7 +57,7 @@
 ### Executando
 
 ```bash
-git clone https://github.com/<seu-usuario>/CatalogoProdutos.git
+git clone https://github.com/Linharestheo/CatalogoProdutos.git
 cd CatalogoProdutos
 dotnet run
 ```
