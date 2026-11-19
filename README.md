@@ -51,7 +51,7 @@
 ### Pré-requisitos
 
 - Windows
-- [.NET SDK 6.0](https://dotnet.microsoft.com/download) ou superior
+- [.NET SDK 8.0.100](https://dotnet.microsoft.com/download) ou superior
 - Visual Studio 2022 *(opcional)*
 
 ### Executando
