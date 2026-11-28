@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Destaques
+## Destaques
 
 | Recurso | Descrição |
 |---|---|
@@ -27,7 +27,7 @@
 | 🧩 **CRUD completo** | Cadastrar, editar, excluir (com confirmação) e cancelar, tudo na mesma tela. |
 | 📐 **Layout adaptável** | A interface se ajusta ao redimensionar a janela. |
 
-## 📋 Regras de negócio
+## Regras de negócio
 
 **Validação do cadastro**
 
@@ -46,7 +46,7 @@
 | 1 a 5 | 🟨 Amarelo claro |
 | 6 ou mais | ⬜ Sem destaque |
 
-## 🚀 Começando
+## Começando
 
 ### Pré-requisitos
 
@@ -64,7 +64,7 @@ dotnet run
 
 Ou abra o projeto no Visual Studio e pressione **F5**.
 
-## 🖱️ Como usar
+## Como usar
 
 | Ação | Como fazer |
 |---|---|
@@ -76,7 +76,7 @@ Ou abra o projeto no Visual Studio e pressione **F5**.
 
 O programa já inicia com três produtos de exemplo para você testar os filtros e o destaque de estoque.
 
-## 🧱 Tecnologias e conceitos
+## Tecnologias e conceitos
 
 - **C# / .NET** com **Windows Forms**
 - `BindingList<T>` e `DataGridView` com vínculo por `DataPropertyName`
@@ -86,7 +86,7 @@ O programa já inicia com três produtos de exemplo para você testar os filtros
 - Classe `partial` separando interface e lógica
 - LINQ para filtros e validações
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 CatalogoProdutos/
@@ -96,7 +96,7 @@ CatalogoProdutos/
 └── Program.cs               # Ponto de entrada
 ```
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] CRUD de produtos
 - [x] Pesquisa imediata com filtros combinados
@@ -108,7 +108,7 @@ CatalogoProdutos/
 - [ ] Salvar imagem e desconto junto com o produto
 - [ ] Ordenação da tabela por coluna
 
-## 👤 Autor
+## Autor
 
 **Theo Linhares Mariano**
 Sistemas de Informação, IFMG - Campus São João Evangelista
